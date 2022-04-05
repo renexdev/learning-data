@@ -14,4 +14,4 @@ This repository groups several resourses, code project examples to improve Machi
 
 [E. Stevens, L. Antiga, T. Viehmann. Deep Learning with PyTorch. Manning Publications (2020)](https://gitlab.com/data-box1/pytorch-dlwpt-hands-on)
 
-[E. Stevens, L. Antiga, T. Viehmann. Deep Learning with PyTorch. Manning Publications (2020)](https://gitlab.com/data-box1/mlflow-hands-on)
+[N. Lauchande. Machine Learning Engineering with MLflow_ Manage the end-to-end machine learning life cycle with MLflow. Packt Publishing (2021)](https://gitlab.com/data-box1/mlflow-hands-on)
