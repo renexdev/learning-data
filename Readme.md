@@ -1,9 +1,9 @@
 # Learning path: Machine Learning & Data Science 
-(by renex)
+(by renexdev)
 
-This repository groups several resourses, code project examples to improve Machine Learning & Data Science skills.
+This repository groups personal code project examples to improve Machine Learning & Data Science skills.
 
-### Machine learning background
+### Machine learning background (renexdev @ gitlab)
 
 [Machine Learning with Python: from Linear Models to Deep Learning MITx - 6.86x](https://gitlab.com/data-box1/6.86x-hands-on)
 
